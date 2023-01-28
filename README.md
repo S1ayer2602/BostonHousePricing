@@ -3,7 +3,7 @@
 
 ### Software and Tools Requirement
 
-1.[GitHub Account](https://github.com)
+1. [GitHub Account](https://github.com)
 
 2. [VS Code IDE](https://code.visualstudio.com/)
 
